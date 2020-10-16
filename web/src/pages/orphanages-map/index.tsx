@@ -1,0 +1,1 @@
+export { OrphanagesMap } from './OrphanagesMap';
